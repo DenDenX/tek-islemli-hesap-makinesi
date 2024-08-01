@@ -15,7 +15,7 @@ Bu proje, temel aritmetik işlemleri gerçekleştiren bir C++ programıdır. Kul
 
 1. Bu projeyi klonlayın veya indirin:
     ```sh
-    git clone https://github.com/kullanici_adi/tek-islemli-hesap-makinesi.git
+    git clone https://github.com/DenDenX/tek-islemli-hesap-makinesi.git
     ```
 2. `main.cpp` dosyasını derleyin:
     ```sh
